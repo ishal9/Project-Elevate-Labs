@@ -1,6 +1,7 @@
 # Project-Elevate-Labs
 
 ## Overview
+- The aim of this project is to build a dashboard to track carbon emission from energy, transport and industry sectors across countries.
 
 /Global-CO2-Emission-Tracker-by-Sector
 ├── data/
