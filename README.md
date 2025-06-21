@@ -2,8 +2,12 @@
 
 ## Overview
 - The aim of this project is to build a dashboard to track carbon emission from energy, transport and industry sectors across countries.
+## Tools Used
+- Tableau
+- Spreadsheet
+- Jupyter Notebook
 
-/Global-CO2-Emission-Tracker-by-Sector
+## Global-CO2-Emission-Tracker-by-Sector
 ├── data/
 │   ├── co2-emissions.csv          # Raw dataset
 │   └── cleaned_co2_emissions.csv  # Processed data (Python output)
