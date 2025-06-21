@@ -1,5 +1,4 @@
 # 12.Global CO2 Emissions Tracker by Sector
-Objective: Build a dashboard to track car
 # Project-Elevate-Labs
 
 ## Overview
