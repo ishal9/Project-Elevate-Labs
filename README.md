@@ -18,5 +18,5 @@
 ** dashboard_screenshots/     # Tableau viz snapshots
 ** tableau/
 ** CO2_Dashboard.twbx         # Tableau workbook
-** README.md                      # This file
+** README.md                      
 
